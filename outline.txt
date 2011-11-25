@@ -8,8 +8,8 @@ robots.
   Merleau-Ponty, Noë.
   1.C. Relation to affordances.
   1.D. Robots in human environments.
-  1.E. Robots have different bodies, different perceptions and different needs
-  from ours.
+  1.E. Robots have different bodies, different perceptions from ours. (DONE)
+  1.E.a (and different needs)
   1.F. Working in unstructured environments require a close-to-human
   intelligence.
 
