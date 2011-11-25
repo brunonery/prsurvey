@@ -14,4 +14,5 @@ def draft():
     local("pdflatex draft.tex")
     local("pdflatex draft.tex")
     
-
+def check():
+    local("evince draft.pdf")
