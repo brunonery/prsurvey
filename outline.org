@@ -1,0 +1,24 @@
+* Phenomenological Robotics
+** TODO 1. Justify looking at phenomenology of perception ideas in order to build better robots.
+*** TODO 1.A. "Failure" of the computational hypothesis on everyday coping (being in the world is more basic than thinking).
+*** TODO 1.B. Adequability of the phenomenology of perception theories: Heidegger, Merleau-Ponty, Noë.
+*** TODO 1.C. Relation to affordances.
+*** TODO 1.D. Robots in human environments.
+*** TODO 1.E. Robots have different bodies, different perceptions and different needs from ours.
+**** DONE 1.E.a Different bodies, different perceptions.
+     CLOSED: [2011-11-25 Fri 11:00]
+**** TODO 1.E.b and different needs.
+*** TODO 1.F. Working in unstructured environments require a close-to-human intelligence.
+** TODO 2. Relation between phenomenology and alternative psychology theories.
+*** TODO 2.A. Heidegger vs. Affordances vs. Agre (no learning) vs. Freeman vs. Noë vs. Chemero vs. Heft.
+*** TODO 2.B. Merleau-Ponty skills (refined situations) vs. Eleanor Gibson.
+*** TODO 2.C. Merleau-Ponty vs. Coupling (van Gelder) vs. Stepp vs. Freeman.
+*** TODO 2.D. EST vs. Freeman (discrete basin transitions).
+*** TODO 2.E. Merleau-Ponty (demand) vs. Chemero.
+*** TODO 2.F. Froese and Ziemke: autonomy plus adaptivity vs. precarity.
+** TODO 3. In Robotics, Phylosophy and Related Work.
+*** TODO 3.A. Kuipers vs. Todes.
+*** TODO 3.B. Bottom-up vs. TCP/IP vs. Small-world models.
+*** TODO 3.C. Check Estela Bicho's work.
+*** TODO 3.D. Review Winograd and Flores (09/03/2011) about action and perception (hermeneutic circle).
+** TODO 4. The IKEA scenario.
