@@ -21,4 +21,5 @@
 *** TODO 3.B. Bottom-up vs. TCP/IP vs. Small-world models.
 *** TODO 3.C. Check Estela Bicho's work.
 *** TODO 3.D. Review Winograd and Flores (09/03/2011) about action and perception (hermeneutic circle).
-** TODO 4. The IKEA scenario.
+** DONE 4. The IKEA scenario.
+   CLOSED: [2011-12-02 Fri 11:21]

@@ -1,6 +1,7 @@
 \documentclass{article}
 \usepackage{graphicx}
 \usepackage{natbib}
+\usepackage{subfig}
 
 \title{Phenomenological Robotics}
 \author{Bruno Nery\\
@@ -39,10 +40,10 @@ Pioneer P3-DX robots, for example, depicted in
 Figure~\ref{fig:herb_icub_pioneer}.
 
 \begin{figure}[h]
-\centering
-\includegraphics{figures/herb_icub_pioneer.png}
-\caption{HERB, iCub, and Pioneer P3-DX robots}
-\label{fig:herb_icub_pioneer}
+  \centering
+  \includegraphics{figures/herb_icub_pioneer.png}
+  \caption{HERB, iCub, and Pioneer P3-DX robots}
+  \label{fig:herb_icub_pioneer}
 \end{figure}
 
 The HERB sees the world in \emph{forward mode} through its laser range finder
@@ -52,6 +53,9 @@ right-to-left) manner through its cameras and head/torso movement. It can also
 grasp nearby objects in order to examine them better. Finally, the Pioneer P3-DX
 experiences the world in two different directions at the same time through its
 sonars and its wheels movement. 
+
+% 4. The IKEA scenario.
+% (Source: Thesis journal, pages 130 to 139, 17/03/2011)
 
 \section{The IKEA scenario}
 
@@ -66,15 +70,30 @@ reach a high place. Most of the times, a ladder will be
 ``for being in the way''.
 
 Also, screwdrivers are, supposedly, ``for driving screws''. But what happens
-when you a have a flat screwdriver and need to drive a Phillips-head screw? It
-is harder to drive it, but have you ever tried driving a flat head screw with a
-Phillips screwdriver? It won't work, and you'll start asking yourself what is
-wrong, and what you can do to fix it.
+when you a have a flat screwdriver and need to drive a Phillips-head screw
+(Figure~\ref{fig:ikea_flat_phillips})? It is harder to drive it, but have you
+ever tried driving a flat head screw with a Phillips screwdriver
+(Figure~\ref{fig:ikea_phillips_flat})? It won't work, and you'll start asking
+yourself what is wrong, and what you can do to fix it.
 
-You will be having a breakdown, as described by Heidegger, and the screwdriver
-will cease to be \emph{ready-to-hand} and become \emph{present-at-hand} until
-you can figure out the problem. But how do we equip a robot with the same
-capabilities so that it can function in a human world?
+\begin{figure}[h]
+  \centering
+  \subfloat[][Flat screwdriver vs. Phillips-head screw] {
+    \includegraphics{figures/ikea_flat_phillips.png}
+    \label{fig:ikea_flat_phillips}
+  }
+  \qquad
+  \subfloat[][Phillips screwdriver vs. Flat head screw] {
+    \includegraphics{figures/ikea_phillips_flat.png}
+    \label{fig:ikea_phillips_flat}
+  }
+  \caption{The IKEA scenario}
+\end{figure}
+
+You will be having a breakdown, as described by Heidegger \cite{dreyfus07}, and
+the screwdriver will cease to be \emph{ready-to-hand} and become
+\emph{present-at-hand} until you can figure out the problem. But how do we equip
+a robot with the same capabilities so that it can function in a human world?
 
 \bibliographystyle{plain}
 \bibliography{prsurvey}
