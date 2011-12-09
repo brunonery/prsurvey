@@ -1,6 +1,7 @@
 * Phenomenological Robotics
 ** TODO 1. Justify looking at phenomenology of perception ideas in order to build better robots.
-*** TODO 1.A. "Failure" of the computational hypothesis on everyday coping (being in the world is more basic than thinking).
+*** DONE 1.A. "Failure" of the computational hypothesis on everyday coping (being in the world is more basic than thinking).
+    CLOSED: [2011-12-09 Fri 10:57]
 *** TODO 1.B. Adequability of the phenomenology of perception theories: Heidegger, Merleau-Ponty, Noë.
 *** TODO 1.C. Relation to affordances.
 *** TODO 1.D. Robots in human environments.
