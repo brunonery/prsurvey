@@ -12,7 +12,8 @@
 *** TODO 1.F. Working in unstructured environments require a close-to-human intelligence.
 ** TODO 2. Relation between phenomenology and alternative psychology theories.
 *** TODO 2.A. Heidegger vs. Affordances vs. Agre (no learning) vs. Freeman vs. Noë vs. Chemero vs. Heft.
-*** TODO 2.B. Merleau-Ponty skills (refined situations) vs. Eleanor Gibson.
+*** DONE 2.B. Merleau-Ponty skills (refined situations) vs. Eleanor Gibson.
+    CLOSED: [2011-12-09 Fri 12:33]
 *** TODO 2.C. Merleau-Ponty vs. Coupling (van Gelder) vs. Stepp vs. Freeman.
 *** TODO 2.D. EST vs. Freeman (discrete basin transitions).
 *** TODO 2.E. Merleau-Ponty (demand) vs. Chemero.
