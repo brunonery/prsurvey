@@ -19,7 +19,8 @@
 *** TODO 2.E. Merleau-Ponty (demand) vs. Chemero.
 *** TODO 2.F. Froese and Ziemke: autonomy plus adaptivity vs. precarity.
 ** TODO 3. In Robotics, Phylosophy and Related Work.
-*** TODO 3.A. Kuipers vs. Todes.
+*** DONE 3.A. Kuipers vs. Todes.
+    CLOSED: [2011-12-16 Fri 11:14]
 *** TODO 3.B. Bottom-up vs. TCP/IP vs. Small-world models.
 *** TODO 3.C. Check Estela Bicho's work.
 *** TODO 3.D. Review Winograd and Flores (09/03/2011) about action and perception (hermeneutic circle).
