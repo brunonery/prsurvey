@@ -23,7 +23,8 @@
 ** TODO 3. In Robotics, Phylosophy and Related Work.
 *** DONE 3.A. Kuipers vs. Todes.
     CLOSED: [2011-12-16 Fri 11:14]
-*** TODO 3.B. Affordances vs. Robotics (Rome's book).
+*** DONE 3.B. Affordances vs. Robotics (Rome's book).
+    CLOSED: [2011-12-22 Thu 15:45]
 *** TODO 3.C. Bottom-up vs. TCP/IP vs. Small-world models.
 *** TODO 3.D. Check Estela Bicho's work.
 *** TODO 3.E. Review Winograd and Flores (09/03/2011) about action and perception (hermeneutic circle).
