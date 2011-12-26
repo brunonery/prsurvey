@@ -11,14 +11,17 @@
      CLOSED: [2011-11-25 Fri 11:00]
 **** TODO 1.E.b and different needs.
 *** TODO 1.F. Working in unstructured environments require a close-to-human intelligence.
+*** TODO 1.G. Summarize next sections.
 ** TODO 2. Relation between phenomenology and alternative psychology theories.
 *** TODO 2.A. Heidegger vs. Affordances vs. Agre (no learning) vs. Freeman vs. Noë vs. Chemero vs. Heft.
 *** DONE 2.B. Merleau-Ponty skills (refined situations) vs. Eleanor Gibson.
     CLOSED: [2011-12-09 Fri 12:33]
 *** DONE 2.C. Merleau-Ponty vs. Coupling (van Gelder) vs. Stepp vs. Freeman.
     CLOSED: [2011-12-21 Wed 11:49]
-*** TODO 2.D. EST vs. Freeman (discrete basin transitions).
-*** TODO 2.E. Merleau-Ponty (demand) vs. Chemero.
+*** DONE 2.D. EST vs. Freeman (discrete basin transitions).
+    CLOSED: [2011-12-26 Mon 17:25]
+*** DONE 2.E. Merleau-Ponty (demand) vs. Chemero.
+    CLOSED: [2011-12-26 Mon 17:25]
 *** TODO 2.F. Froese and Ziemke: autonomy plus adaptivity vs. precarity.
 ** TODO 3. In Robotics, Phylosophy and Related Work.
 *** DONE 3.A. Kuipers vs. Todes.
