@@ -11,7 +11,8 @@
      CLOSED: [2011-11-25 Fri 11:00]
 **** TODO 1.E.b and different needs.
 *** TODO 1.F. Working in unstructured environments require a close-to-human intelligence.
-*** TODO 1.G. Summarize next sections.
+*** DONE 1.G. Summarize next sections.
+    CLOSED: [2011-12-26 Mon 19:50]
 ** TODO 2. Relation between phenomenology and alternative psychology theories.
 *** TODO 2.A. Heidegger vs. Affordances vs. Agre (no learning) vs. Freeman vs. Noë vs. Chemero vs. Heft.
 *** DONE 2.B. Merleau-Ponty skills (refined situations) vs. Eleanor Gibson.
